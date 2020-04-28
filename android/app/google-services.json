@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170820762880",
+    "firebase_url": "https://mysocialflutter.firebaseio.com",
+    "project_id": "mysocialflutter",
+    "storage_bucket": "mysocialflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170820762880:android:29f28395781918736007e5",
+        "android_client_info": {
+          "package_name": "com.example.my_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170820762880-9c5fnn2lvcojjeareku4sqmscsgr4l10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeTpAdbq9WNvk6QlwN16JdyALrkqvItOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170820762880-9c5fnn2lvcojjeareku4sqmscsgr4l10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
